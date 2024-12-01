@@ -7,16 +7,14 @@ This repository contains my [Advent of Code](https://adventofcode.com/) solution
 Advent of Code is primarily just an excuse to practice the languages that I am familiar with, or to learn a new language. Here you can find which years are done in what language(s).
 
 - 2024
-    - Gleam
-    - TypeScript
-    - Go
-    - C#
+    - [Gleam](https://gleam.run/)
+    - [TypeScript](https://www.typescriptlang.org/)
+    - [Go](https://go.dev/)
+    - [C#](https://dotnet.microsoft.com/en-us/languages/csharp)
 
 ## Progress
 ### 2024
 - [ ] 1
-    - Gleam
-    - TypeScript
 - [ ] 2
 - [ ] 3
 - [ ] 4
